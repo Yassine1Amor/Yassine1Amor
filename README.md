@@ -68,7 +68,12 @@
     </a>
 </p>
 
-### Coding Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yassine1Amor&show_icons=true)  
+<details>
+<summary>
+    <h5> More stuff about me </h5>
+</summary>
 
+### Github Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yassine1Amor&show_icons=true)  
+</details>
 
